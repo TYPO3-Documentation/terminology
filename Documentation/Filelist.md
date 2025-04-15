@@ -8,7 +8,7 @@
 
 ## Rationale
 
-- "Filelist" is not a familiar term for most users, especially non-German speakers. It carries a "Denglish" tone.
+- "Filelist" is not a familiar term for most native english-speaking users.
 - The module is specifically about managing **media and downloadable content**, not general files.
 - “Media” is a widely accepted and intuitive term across other CMS platforms (e.g., WordPress, Drupal).
 - Improves **usability** and **discoverability** for new users.
