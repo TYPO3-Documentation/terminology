@@ -1,9 +1,9 @@
 # 📁 Rename [Current Term] -> [Proposed Term]
 
-**Status:** [Proposed | Under Review | Accepted | Rejected]
-**Target Version:** TYPO3 vXX.X
-**Forge Issue:** [#XXXXX](https://forge.typo3.org/issues/XXXXX)
-**Tags:** `ux-decision`, `terminology`
+* **Status:** [Proposed | Under Review | Accepted | Rejected]
+* **Target Version:** TYPO3 vXX.X
+* **Forge Issue:** [#XXXXX](https://forge.typo3.org/issues/XXXXX)
+* **Tags:** `ux-decision`, `terminology`
 
 ## Rationale
 
@@ -30,3 +30,10 @@
   - Translations
   - Extension names or namespaces
   - Screenshots, inline help, etc.
+
+
+## Supporters
+
+- Rachel Foucard (UX, native French speaker)
+- Lina Wolf (Documentation, native German speaker)
+- Sarah McCarthy (Documentation, native English speaker)
