@@ -14,12 +14,12 @@
     />
     <extension
         class="\T3Docs\Typo3DocsTheme\DependencyInjection\Typo3DocsThemeExtension"
-        edit-on-github="typo3/terminology"
+        edit-on-github="TYPO3-Documentation/terminology"
         edit-on-github-branch="main"
         interlink-shortcode="typo3/terminology"
         project-home="https://docs.typo3.org"
-        project-issues="https://github.com/typo3/terminology/issues"
-        project-repository="https://github.com/typo3/terminology"
+        project-issues="https://github.com/TYPO3-Documentation/terminology/issues"
+        project-repository="https://github.com/TYPO3-Documentation/terminology"
         typo3-core-preferred="main"
     />
 </guides>
