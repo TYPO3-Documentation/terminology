@@ -1,0 +1,32 @@
+# 📁 Rename [Current Term] -> [Proposed Term]
+
+**Status:** [Proposed | Under Review | Accepted | Rejected]
+**Target Version:** TYPO3 vXX.X
+**Forge Issue:** [#XXXXX](https://forge.typo3.org/issues/XXXXX)
+**Tags:** `ux-decision`, `terminology`
+
+## Rationale
+
+- Why the current term is unclear, outdated, or problematic
+- Why the proposed term improves usability or clarity
+- If relevant, align with other tools or CMSs
+
+## Evaluation
+
+| Criterion       | Meets? | Notes                                    |
+|----------------|--------|------------------------------------------|
+| Unique         | ✅ / ❌ / ❓ | ...                                    |
+| Clear          | ✅ / ❌ / ❓ | ...                                    |
+| Self-evident   | ✅ / ❌ / ❓ | ...                                    |
+| Familiar       | ✅ / ❌ / ❓ | ...                                    |
+| Plain          | ✅ / ❌ / ❓ | ...                                    |
+| English        | ✅ / ❌ / ❓ | ...                                    |
+
+## Affected Areas
+
+- List all areas that need changes:
+  - UI labels
+  - Documentation
+  - Translations
+  - Extension names or namespaces
+  - Screenshots, inline help, etc.

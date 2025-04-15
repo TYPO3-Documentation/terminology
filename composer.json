@@ -1,0 +1,9 @@
+{
+  "name": "typo3/terminology",
+  "description": "Terminology changes for TYPO3",
+  "license": "OPL-1.0",
+  "type": "typo3-cms-documentation",
+  "require": {
+    "typo3/cms-core": "dev-main"
+  }
+}
