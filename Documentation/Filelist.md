@@ -1,10 +1,11 @@
 
 # 📁 Rename Filelist -> Media
 
-**Status:** Under Review  
-**Target Version:** TYPO3 v14.0  
-**Forge Issue:** [#106471](https://forge.typo3.org/issues/106471)  
-**Tags:** `ux-decision`, `terminology`
+* **Status:** Under Review  
+* **Target Version:** TYPO3 v14.0  
+* **Forge Issue:** [#106471](https://forge.typo3.org/issues/106471)  
+* **Gerrit Change** [#89079](https://review.typo3.org/c/Packages/TYPO3.CMS/+/89079)
+* **Tags:** `ux-decision`, `terminology`
 
 ## Rationale
 
@@ -33,3 +34,11 @@
 - Translation files
 - Screenshots and UI visuals
 - name of EXT:filelist
+
+## Supporters
+
+- Rachel Foucard (UX, native French speaker)
+- Lina Wolf (Documentation, native German Speaker)
+- Sarah McCarthy (Documentation, native English speaker)
+- Mathias Bolt Lesniak (Documentation, native Norwegian speaker)
+- Benni Mack (Core, native German Speaker)
