@@ -1,6 +1,6 @@
 # Settings (ambiguous)
 
-* **Status:** [Help wanted]
+* **Status:** Help wanted
 * **Target Version:** TYPO3 v14.0
 
 ## Rationale
