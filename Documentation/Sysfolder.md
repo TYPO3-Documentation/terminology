@@ -1,6 +1,6 @@
 # 📁 Rename Sys Folder -> Data Folder
 
-* **Status:** [Proposed]
+* **Status:** Proposed
 * **Target Version:** TYPO3 14.0
 
 ## Rationale
