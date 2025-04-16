@@ -1,6 +1,6 @@
 # Rename Backend Layout -> Page Template
 
-* **Status:** [Proposed]
+* **Status:** Proposed
 * **Target Version:** TYPO3 14.0
 
 ## Rationale
@@ -12,7 +12,7 @@
 - **"Page Template" is clearer and modern**: It reflects both the backend
   layout structure and the frontend rendering logic.
 
-- **Improves usability**: Editors can better understand they are selecting how
+- **Improves usability**: Editors can better understand that they are selecting how
   a page is structured and displayed, not just its backend grid layout.
 
 - **Aligns with common CMS terminology**: Other CMSs like WordPress and Drupal
